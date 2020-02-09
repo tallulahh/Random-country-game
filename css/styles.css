@@ -1,0 +1,80 @@
+html {
+  text-align: center;
+  background-color: #d6f481;
+  margin: 120px 50px 50px;
+  font-family: 'Luckiest Guy', cursive;
+}
+
+h1 {
+  color: #819df4;
+  font-size: 5em;
+}
+
+a {
+  text-decoration: none;
+}
+
+.box {
+  height: 500px;
+}
+
+.fas {
+  margin-top: 50px;
+  color: #819df4;
+}
+
+.fas:hover {
+  color: #889e81;
+}
+
+#intro {
+  color: #889e81;
+  font-size: 1.4em;
+}
+.calculatorBox {
+  margin-bottom: 20px;
+  height: 600px;
+  color: #889e81;
+}
+
+.next {
+  margin: auto auto 200px;
+}
+
+.list {
+
+  margin: auto 50px 60px;
+  color: #889e81;
+}
+
+.list p {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 1.7em;
+}
+
+.list .fas:hover {
+  color: white;
+}
+
+button {
+  background-color: #819df4;
+  margin-top: 90px;
+  margin-bottom: 30px;
+  font-family: 'Luckiest Guy', cursive;
+  color: white;
+  font-size: 2em;
+}
+
+button:hover {
+  background-color: #889e81;
+}
+
+#next a {
+  color: #819df4;
+  font-size: 3em;
+}
+
+#next a:hover {
+  color: white;
+}
